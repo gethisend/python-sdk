@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+hisend/__init__.py
+hisend/client.py
+hisend/models.py
+hisend.egg-info/PKG-INFO
+hisend.egg-info/SOURCES.txt
+hisend.egg-info/dependency_links.txt
+hisend.egg-info/requires.txt
+hisend.egg-info/top_level.txt
+hisend/resources/__init__.py
+hisend/resources/domains.py
+hisend/resources/emails.py
+hisend/resources/routing.py
+hisend/resources/threads.py
+tests/test_client.py
