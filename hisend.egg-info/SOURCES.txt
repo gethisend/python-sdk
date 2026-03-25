@@ -3,6 +3,7 @@ pyproject.toml
 hisend/__init__.py
 hisend/client.py
 hisend/models.py
+hisend/webhooks.py
 hisend.egg-info/PKG-INFO
 hisend.egg-info/SOURCES.txt
 hisend.egg-info/dependency_links.txt
